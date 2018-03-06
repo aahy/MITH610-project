@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type= "main">Diamondback Article</title>
+            <title type= "sub">Negroes view campus with mixed emotions</title>
+            <title type= "sub">Digital Edition</title>
+            <author>
+              <persName>Aia H. Yousef</persName>
+            </author>
+            <respStmt>
+              <resp>Encoded by</resp>
+            <name>Aia H. Yousef</name>
+          </respStmt>
+         </titleStmt>
+         <publicationStmt>
+           <publisher>
+           <orgName>Maryland Institute for Technology in the Humanities</orgName>
+         </publisher>
+         <pubPlace>
+         <settlement>College Park</settlement>
+       <region>Maryland</region>
+     </pubPlace>
+     <date when= "2018-03-04">March 4, 2018</date>
+         </publicationStmt>
+         <sourceDesc>
+           <bibl>
+           <title>The DiamondBack</title>
+           <publisher> <orgName>University of Maryland</orgName>
+         </publisher>
+           <pubPlace>
+             <settlement>College Park</settlement>
+             <region>Maryland</region>
+           </pubPlace>
+           <date when= "1967-01-12">January 12, 1967</date>
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="article">
+           <head>Negroes view campus with mixed emotions</head>
+
+            <cb n="1"/>
+            <byline>By Hollace Goldberg</byline>
+          <p> "I was shaving in the dorm one <lb/> day," related a Negro boy, "and <lb/> I cut myself. A friend who was <lb/>
+            sitting nearby joked with me <lb/> and said, ‘Gee, I didn’t know you <lb/> had red blood. My mother al-<lb break="no"/>­ways told me
+            it was blue.’" <lb/> </p>
+          <p> Turning to his friend, the <lb/> Negro youth replied, "Now that <lb/> you see it’s red, think of all the <lb/>
+            other lies your mother might <lb/> have told you." <lb/> </p>
+          <p> This is what the Negro some­-<lb break="no"/>times encounters on campus. <lb/> But he knows that a jovial return <lb/>
+
+            <cb n="2"/>
+              or a friendly innuendo may serve <lb/> to enlighten a white person’s <lb/> attitudes and teach him what the <lb/>
+              black man is <lb/> like and what he is not like. <lb/> </p>
+          <p> Negroes on campus who mix <lb/> socially and academically with <lb/> whites and also stay away from <lb/>
+            large associations of Negroes <lb/> feel that they are recognized as <lb/> students -- not as "Negro" stu­-<lb break="no"/>­dents.
+            As rapport develops be­-<lb break="no"/>tween these Negroes and their <lb/> white colleagues, race becomes <lb/> just another topic for
+            dormitory <lb/> bull sessions and jests. <lb/> </p>
+          <p> Two colored girls in <placeName>Wicomico</placeName> <lb/>
+
+             <cb n="3"/>
+             one day plastered Black Power <lb/> signs all over their hall. “It was <lb/> fun," reports prankster <persName>Carolyn</persName>, <lb/>
+             a freshman from <placeName>Baltimore</placeName>, for <lb/> in reply to this stunt, the white <lb/> girls “dressed up in paper bags, <lb/>
+             pretending they were a <orgName>(Ku Klux) <lb/> Klan</orgName>." <lb/> </p>
+          <p> The hooded WASPS sprinkled <lb/> perfume on the floor in the shape <lb/> of a cross and set fire to it. “It <lb/>
+            really startled us!" exclaimed <lb/> <persName>Carolyn</persName>. <lb/> </p>
+          <p> "We kid around a lot in the <lb/> dorm," related <persName>Bronwyn</persName>, a junior. <lb/> "We sing 'We Shall overcome.’" <lb/>
+            Songs and jokes, she says, don’t <lb/> offend her, for she does not "look <lb/> on the bad side about what other <lb/>
+            people say about me." <lb/> </p>
+          <p> Some other Negro students find <lb/> adjustment to <placeName>College Park</placeName> diffi­-<lb break="no"/>cult. <persName>Betty</persName>, who is 28 years old, <lb/>
+            married and a native of <placeName>Cali­-<lb break="no"/>fornia</placeName>, finds an “extremely <lb/> hostile" attitude about the <lb/> campus. “There are certain <lb/>
+            vibrations you can feel." <lb/> </p>
+          <p> <persName>Betty</persName> recalls an incident she <lb/> had with an advisor. During <lb/> registration week, she went to <lb/> him twice with
+            scheduling dilem­-<lb break="no"/>mas. “He was very nasty," she <lb/> recalled, biting her lower lip and <lb/> widening her very expressive <lb/>
+            eyes. “I told him I had to take <lb/> this course. He threw my (drop <lb/>­ add) slip at me...I thought it <lb/> was
+            terribly unprofessional for <lb/> an advisor to extend this sort of <lb/> treatment." <lb/> </p>
+          <p> <persName>Betty</persName> feels that her race did <lb/> play a causative factor toward <lb/> this discourteous treatment. “I <lb/>
+            do have a basis for comparison," <lb/> she explained. She was raised <lb/> in an integrated community, has <lb/>
+            traveled through <placeName>Europe</placeName> with her <lb/> husband, attended <orgName>San Francisco <lb/> State College</orgName> and <orgName>Hunter College</orgName> <lb/>
+            and interdated in her high school <lb/> and earlier college years. <lb/> </p>
+            <ab rend="floating">'This is the first time I feel Negro'</ab>
+
+              <cb n="4"/>
+          <p> "I find It extremely difficult to estab­-<lb break="no"/>lish any form of communication with <lb/> some of the teachers
+            and advisors here," <lb/> she said. “Students, basically, are <lb/> friendly, receptive, and warm. But, in <lb/> some
+            instances, there is hesitancy...I <lb/> don't think they know how to respond to <lb/> a Negro." <lb/> </p>
+          <p> <persName>Betty</persName> has run into trouble securing <lb/> rides from the commuters' carpool serv-<lb break="no"/>­ice. A few times, she was
+            able to arrange <lb/> rides over the telephone. However, <lb/> when she met her future commuting <lb/> companions they
+            would frequently “begin <lb/> to make excuses," and <persName>Betty</persName> had no <lb/> ride. <lb/> </p>
+          <p> Resulting from her academic and <lb/> social contacts, <persName>Betty</persName> concludes that, <lb/> “When you are brought up in an
+            inte­-<lb break="no"/>grated situation, you act as an individual. <lb/> You are not Negro or white. But here <lb/> ...in the South...and
+            on this campus <lb/> ...I feel I am treading on white man's <lb/> territory...This is the first time I <lb/> feel Negro." <lb/> </p>
+          <p> Also noting a discernible line between <lb/> the races, but holding a different view­-<lb break="no"/>­point is a 28 year-old male
+            student who <lb/> works full time off campus. <lb/> </p>
+          <p> What's so overwhelming about feeling <lb/> like a Negro, he questioned. “Isn't <lb/> there a distinction" between
+            Negroes and <lb/> whites? <lb/> </p>
+          <p> With a wholly different frame of mind <lb/> is <persName>Harry</persName>, a lively, congenial sophomore <lb/> who commutes to school
+            and takes <lb/> photo­graphs for campus publications. “I am <lb/> not a Negro on a white campus!" he <lb/> asserts. <lb/> </p>
+          <p> "I don't think this is a white campus <lb/> ...and I don't go for this stuff that the <lb/> Negro doesn’t have as <lb/>
+            much chance as everyone else out here. He does." <lb/> </p>
+          <p> A native of <placeName>Wisconsin</placeName> and formerly a <lb/> nine-year resident of <placeName>Little Rock, Ark.</placeName>, <lb/> <persName>Harry</persName> says,
+            “Because of the way my <lb/> family brought me up...I have never <lb/> felt inferior to anybody. Some Negroes <lb/>
+            do feel inferior. Some feel mid way." <lb/> </p>
+          <p> A Negro who feels cunningly daring is <lb/> <persName>Dave</persName>. <persName>Dave</persName> has skin brown as chocolate, <lb/> teeth white as snow
+            and a smile that <lb/> signals immediate rapport with his environment. <lb/> </p>
+          <p> “Maryland is a conservative campus," <lb/> he notes. “You can’t very well walk out <lb/> of your race.
+            I was told a lot of tales <lb/>
+
+              <cb n="5"/>
+              before I came here. ‘You can’t do this. <lb/> You can’t do that.’ I feel, though, that <lb/> there is an
+              atmosphere here and an <lb/> opportunity to participate in just about <lb/> anything." <lb/> </p>
+          <p> <persName>Dave</persName> has been active in dormitory <lb/> sports, house rules committee, powder­-<lb break="no"/>puff football, dormitory parties
+            and <lb/> homecoming preparations. <lb/> </p>
+          <p> Socially, <persName>Dave</persName> goes out with whites <lb/> and Negroes. “I've gone steady with <lb/> white girls, Jewish girls,"
+            he said, <lb/> adding, “I guess I am a gregarious <lb/> fellow. I interrelate easily." “But I <lb/> use my intellect
+            before I jump. Every <lb/>­ one gets slapped in the face a few times. <lb/> So you use some discretion." <lb/> </p>
+          <p> In class, for example, “If your grade <lb/> is tottering...and your prof talks with <lb/> a little bit of a
+            Southern accent...you <lb/> don’t talk to <persName>Sally</persName> during the lecture." <lb/> </p>
+          <p> Two female Negro students, however, <lb/> disagree with <persName>Dave</persName>’s classroom obser-<lb break="no"/>­vation. “If you prove yourself
+            to the <lb/> teacher," feels <persName>Bronwyn</persName>, “there is noth­-<lb break="no"/>ing the teacher can do against you." <lb/> </p>
+          <p> “I have encountered nothing (prejudi-<lb break="no"/>­­cial) whatsoever," related <persName>Kathleen</persName>, a <lb/> junior majoring in
+            marketing and a <lb/> transfer student from the <orgName>University of <lb/> Maryland</orgName> in <placeName>Munich, Germany</placeName>. “I have <lb/> yet to
+            find an inkling that such a thing <lb/> exists as far as teaching is concerned." <lb/> </p>
+          <p> <persName>Rich</persName>, a 26 year-old Business Student <lb/> recalls, “There were a couple of courses <lb/> I have taken here where
+            I felt I had <lb/> gotten a raw deal...I have only run <lb/> across two professors I can really sit <lb/> down and talk
+            to here in BPA." <lb/> </p>
+          <p> <persName>Betty</persName>, the attractive housewife-student <lb/> from <placeName>California</placeName> agrees. “I don’t expect <lb/> to get the benefit
+            of the doubt if I am <lb/> borderline." <lb/> </p>
+          <p> Discussing classroom interaction <lb/> among students, some Negroes find they <lb/> are stared at if race is
+            discussed during <lb/> a lecture. Other Negroes notice nothing <lb/> of the sort. <lb/> </p>
+          <p> "The kids don’t stare at me. They <lb/> don’t even look up," laughed a pretty <lb/> Junior who commutes to school from <lb/>
+            <placeName>Laurel</placeName>. “If they do, I don’t catch them <lb/> staring!" <lb/> </p>
+          <p> “Sometimes it hits me that I am the <lb/> only Negro in a class," relates another <lb/>
+
+              <cb n="6"/>
+            Negro. "It doesn't make me shrink. I <lb/> am always working harder because I <lb/> always feel I have to prove
+            myself to <lb/> white people. I have to show them that I <lb/> live as well as they do, maybe better. <lb/> I am not a dumb,
+            ignorant Negro. I feel <lb/> that I have to prove this to them." <lb/> </p>
+          <p> Though the Negroes on campus have <lb/>
+
+              <cb n="7"/>
+            different experiences and perceptions to <lb/> relate, they generally agree on one com­-<lb break="no"/>mon theme.
+            As one freshman comment-<lb break="no"/>­ed, “When you have more and more <lb/> contact with Negro people, then you <lb/>
+            don’t have as many preconceptions. Why? <lb/> Because the preconceptions all fall <lb/> apart." <lb/> </p>
+         </div>
+      </body>
+  </text>
+</TEI>
