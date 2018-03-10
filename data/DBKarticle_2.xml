@@ -9,7 +9,6 @@
             <title type= "sub">Militant Negro Speaks</title>
             <title type= "sub">Digital Edition</title>
             <author>
-              <persName>Aia H. Yousef</persName>
             </author>
             <respStmt>
               <resp>Encoded by</resp>
@@ -56,7 +55,7 @@
              night that Negro students at the <lb/>
              University ought to “begin ques­-<lb break="no"/>
              tioning the values" of a society <lb/>
-             that has “brainwashed" them. <lb/>
+             that has <supplied> “brainwashed" </supplied> them. <lb/>
              Speaking in the student union <lb/>
              before a crowd of about 100, <lb/>
              <persName>Nathan Hare</persName>, 26, said, “Black <lb/>
@@ -90,9 +89,9 @@
              Selective Service Director Lt. <lb/>
              Gen. <persName>Lewis Hershey</persName> was pre­-<lb break="no"/>
              vented from speaking on campus <lb/>
-             by hecklers. Four students were <lb/>
+             by hecklers. <supplied> Four students were <lb/>
              subsequently reinstated by a <lb/>
-             federal court. <lb/> </p>
+             federal court. </supplied> <lb/> </p>
             <p> In June 1966, when <orgName>Howard</orgName> <lb/>
              was having its centennial obser­-<lb break="no"/>
              vation he was “told not to make <lb/>
@@ -124,13 +123,13 @@
                University to accept more <lb/>
                Negroes in the future," he de­-<lb break="no"/>
                clared. <lb/> </p>
-              <p> <persName>Wynn </persName>said most Negro stu­-<lb break="no"/>
+              <p> <supplied> <persName>Wynn </persName>said most Negro stu­-<lb break="no"/>
                dents, though they are not dis­-<lb break="no"/>
                criminated against on campus, <lb/>
                drop out or transfer to Negro <lb/>
                colleges as they “become dis­-<lb break="no"/>
                illusioned with the social life <lb/>
-               at this University." <lb/> </p>
+               at this University." </supplied> <lb/> </p>
               <p> <persName>Wynn</persName> said, “Many are afraid <lb/>
                of alienating their white friends <lb/>
                so they imitate them." <lb/> </p>
@@ -152,13 +151,13 @@
               <p> “When the white players on <lb/>
               the team finish a good game, the <lb/>
               cheerleaders run out to hug and <lb/>
-              kiss them. But when <persName>Bill (Jones)</persName> <lb/>
+              kiss them. <supplied> But when <persName>Bill (Jones)</persName> <lb/>
 
               <cb n="3"/>
 
               and <persName>Pete (Johnson)</persName> come off the <lb/>
               (basketball) court there’s nobody <lb/>
-              to greet them. This may seem <lb/>
+              to greet them. </supplied> This may seem <lb/>
               a minute gripe to you, but to <lb/>
               them it's important." <lb/> </p>
               <p> Much of the comment from <lb/>
@@ -170,21 +169,6 @@
               liaison between the administra­-<lb break="no"/>
               tion and the Negro students." <lb/> </p>
 
-<ab rend="floating">
-
-             <cb n="1"/>
-             <persName>NATHAN HARE</persName>, a militant black <lb/>
-             power sociology instructor, told Uni­-<lb break="no"/>
-             versity <orgName>CORE</orgName> members last night <lb/>
-
-             <cb n="2"/>
-             that they must start re-evaluating <lb/>
-             the values of their “schizoid” society. <lb/> </ab>
-
-           <ab rend="floating">'Re-evaluate society'</ab>
-
-           <!-- first floating block of text (image caption) appears below an image above the article title -->
-           <!-- second floating quote appears between image caption and  article title -->
 
          </div>
       </body>

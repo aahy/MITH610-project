@@ -3,6 +3,10 @@
   margin: 0 0 1em 0;
 }
 
-tei-teiHeader {
-  display: none;
-}
+
+tei-ab-rend {display; none;}
+tei-cb {display: none;}
+tei-supplied{color: red;}
+tei-byline {font-style: italic;}
+h1 {text-align: center;}
+h2 {font-size: 15px; font-style: italic; text-align: center;}
