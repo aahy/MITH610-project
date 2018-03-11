@@ -3,7 +3,9 @@
   margin: 0 0 1em 0;
 }
 
-tei-teiHeader {display: none;}
+tei-teiHeader {
+  display: none;
+}
 tei-ab-rend {display; none;}
 tei-cb {display: none;}
 tei-supplied{color: red;}
